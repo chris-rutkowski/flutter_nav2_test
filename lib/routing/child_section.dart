@@ -1,0 +1,4 @@
+enum ChildSection {
+  newResource,
+  networking,
+}
